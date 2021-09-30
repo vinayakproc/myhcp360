@@ -26,7 +26,7 @@ const Viewone = (props) => {
         <Card className=" p-1  bg-white rounded ">
           <p>
             <u>
-              <b>Brand Share of Voice</b>
+              <b>Brands Share of Voice</b>
             </u>
           </p>
           <Row className="border-top  p-1">
