@@ -3,9 +3,21 @@
     text-align: center;
   }
 
-  .thead-styles thead tr td {
+  .thead-styles thead tr th {
       text-align: center;
+      vertical-align: middle !important;
+      font-size: small;
   }
+
+  div[data-test="datatable-info"]{
+      font-size: small;
+  }
+
+  div[data-test="pagination"]{
+    font-size: small;
+}
+
+  
 
  
   thead[data-test="table-foot"]{
