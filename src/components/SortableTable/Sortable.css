@@ -1,0 +1,39 @@
+.table-styles tbody tr td {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .thead-styles thead tr td {
+      text-align: center;
+  }
+
+ 
+  thead[data-test="table-foot"]{
+      display: none;
+  }
+
+  div[date-test="datatable-input"]
+  {
+      position:fixed
+  }
+
+
+  div[data-test="datatable-select"]
+  {
+      display:none;
+  }
+
+  div[data-test="datatable-search"]
+  {
+      justify-content: flex-start !important;
+  }
+
+  div[data-test="datatable-input"]
+  {
+     width : 200%
+  }
+
+
+
+
+ 
